@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\QURAAN PLAYER\BusnessLogicLayer\bin\Debug\BusnessLogicLayer.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\BusnessLogicLayer\bin\Debug\BusnessLogicLayer.pdb
+C:\Users\USER\source\repos\QURAAN PLAYER\BusnessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\BusnessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\USER\source\repos\QURAAN PLAYER\BusnessLogicLayer\obj\Debug\BusnessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\QURAAN PLAYER\BusnessLogicLayer\obj\Debug\BusnessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\QURAAN PLAYER\BusnessLogicLayer\obj\Debug\BusnessL.80A64983.Up2Date
+C:\Users\USER\source\repos\QURAAN PLAYER\BusnessLogicLayer\obj\Debug\BusnessLogicLayer.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\BusnessLogicLayer\obj\Debug\BusnessLogicLayer.pdb
