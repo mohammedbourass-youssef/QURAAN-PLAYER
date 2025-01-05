@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D3CC4C28-25BB-4784-8DA3-204F14BD4253}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QURAAN_PLAYER</RootNamespace>
+    <AssemblyName>QURAAN PLAYER</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>C:\Users\USER\Desktop\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\Desktop\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.Win32.Registry, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Win32.Registry.4.7.0\lib\net461\Microsoft.Win32.Registry.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.2.2.1\lib\net472\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.Asio, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.Asio.2.2.1\lib\netstandard2.0\NAudio.Asio.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.Core.2.2.1\lib\netstandard2.0\NAudio.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.Midi, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.Midi.2.2.1\lib\netstandard2.0\NAudio.Midi.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.Wasapi, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.Wasapi.2.2.1\lib\netstandard2.0\NAudio.Wasapi.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.WinForms, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.WinForms.2.2.1\lib\net472\NAudio.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.WinMM, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.WinMM.2.2.1\lib\netstandard2.0\NAudio.WinMM.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Security.AccessControl, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.AccessControl.4.7.0\lib\net461\System.Security.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal.Windows, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Principal.Windows.4.7.0\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsButtonPropritieschange.cs" />
+    <Compile Include="clsGlobalFrms.cs" />
+    <Compile Include="clsOtils.cs" />
+    <Compile Include="clsSong.cs" />
+    <Compile Include="ctrlPlayPauseMusic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlPlayPauseMusic.Designer.cs">
+      <DependentUpon>ctrlPlayPauseMusic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlSuratInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlSuratInfo.Designer.cs">
+      <DependentUpon>ctrlSuratInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAllReaders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAllReaders.Designer.cs">
+      <DependentUpon>frmAllReaders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAllSuratHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAllSuratHelp.Designer.cs">
+      <DependentUpon>frmAllSuratHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFavorite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFavorite.Designer.cs">
+      <DependentUpon>frmFavorite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmmainform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmainform.Designer.cs">
+      <DependentUpon>frmmainform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddSurat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddSurat.Designer.cs">
+      <DependentUpon>frmAddSurat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAllReadersOfSurah.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAllReadersOfSurah.Designer.cs">
+      <DependentUpon>frmAllReadersOfSurah.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAllSurahs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAllSurahs.Designer.cs">
+      <DependentUpon>frmAllSurahs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHome.Designer.cs">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ctrlPlayPauseMusic.resx">
+      <DependentUpon>ctrlPlayPauseMusic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlSuratInfo.resx">
+      <DependentUpon>ctrlSuratInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAllReaders.resx">
+      <DependentUpon>frmAllReaders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAllSuratHelp.resx">
+      <DependentUpon>frmAllSuratHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFavorite.resx">
+      <DependentUpon>frmFavorite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmainform.resx">
+      <DependentUpon>frmmainform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddSurat.resx">
+      <DependentUpon>frmAddSurat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAllReadersOfSurah.resx">
+      <DependentUpon>frmAllReadersOfSurah.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAllSurahs.resx">
+      <DependentUpon>frmAllSurahs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHome.resx">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cancel-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-maximize-button-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-line-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-administrator-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-song-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-play-record-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-muslim-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-favorite-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sound-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mute-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Middle-sound-40 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HighLevel-sound-40 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-play-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusnessLogicLayer\BusnessLogicLayer.csproj">
+      <Project>{3bdaa16e-7dd8-44d5-93a1-c3836b1a3cdd}</Project>
+      <Name>BusnessLogicLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-find-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-back-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-chevron-right-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-chevron-right-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scroll rigth.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scroll rigth1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-double-right-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-double-left-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-double-right-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-double-left-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-back-40 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-notification-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-notification-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-help-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-save-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cancel-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-athlete-male-70.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voidpicture.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-filled-circle-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-heart-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-heart-40 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
