@@ -1,0 +1,89 @@
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\QURAAN PLAYER.exe.config
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\QURAAN PLAYER.exe
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\QURAAN PLAYER.pdb
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN PLAYER.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmmain.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.Properties.Resources.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN PLAYER.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN PLAYER.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN PLAYER.exe
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN PLAYER.pdb
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\Guna.UI2.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN P.E296B8A5.Up2Date
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\NAudio.Asio.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\NAudio.Core.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\NAudio.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\NAudio.Midi.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\NAudio.Wasapi.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\NAudio.WinForms.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\NAudio.WinMM.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\System.Security.AccessControl.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\NAudio.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\NAudio.Asio.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\NAudio.Core.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\NAudio.Midi.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\NAudio.Wasapi.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\NAudio.WinForms.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\NAudio.WinMM.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\System.Security.AccessControl.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\BusnessLogicLayer.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\BusnessLogicLayer.pdb
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmHome.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\DataAccessLayer.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\bin\Debug\DataAccessLayer.pdb
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.ctrlPlayPauseMusic.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.ctrlSuratInfo.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmAllSurahs.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmAllReadersOfSurah.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmAddSurat.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmAllSuratHelp.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmFavorite.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmAllReaders.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\QURAAN PLAYER.exe.config
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\QURAAN PLAYER.exe
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\QURAAN PLAYER.pdb
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\BusnessLogicLayer.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\NAudio.Asio.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\NAudio.Core.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\NAudio.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\NAudio.Midi.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\NAudio.Wasapi.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\NAudio.WinForms.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\NAudio.WinMM.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\System.Security.AccessControl.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\DataAccessLayer.dll
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\BusnessLogicLayer.pdb
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\NAudio.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\NAudio.Asio.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\NAudio.Core.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\NAudio.Midi.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\NAudio.Wasapi.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\NAudio.WinForms.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\NAudio.WinMM.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\System.Security.AccessControl.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\bin\Debug\DataAccessLayer.pdb
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN PLAYER.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.ctrlPlayPauseMusic.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.ctrlSuratInfo.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmAllReaders.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmAllSuratHelp.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmFavorite.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmmain.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmAddSurat.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmAllReadersOfSurah.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmAllSurahs.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.frmHome.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN_PLAYER.Properties.Resources.resources
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN PLAYER.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN PLAYER.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN P.E296B8A5.Up2Date
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN PLAYER.exe
+C:\Users\USER\source\repos\QURAAN PLAYER\Source Code\QURAAN PLAYER\obj\Debug\QURAAN PLAYER.pdb
